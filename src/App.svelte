@@ -10,7 +10,7 @@
     let height = window.innerHeight;
     let pathString = "";
     let pathColor = "#ff0080";
-    const MAX_PATH_LENGTH = 50000;
+    const MAX_PATH_LENGTH = 200000;
     let showCircles = true;
     let paused = false;
     let t = 0;
